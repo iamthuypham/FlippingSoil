@@ -583,7 +583,7 @@ img {
 }
 
 .inner-hero.about-page {
-  height: 400px;
+  height: 600px;
   background-image: url('../images/hero_about.jpg');
   background-size: cover;
   background-repeat: no-repeat;
